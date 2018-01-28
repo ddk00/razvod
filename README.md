@@ -1,13 +1,6 @@
 # razvod
 
-Razvod is a little python program which helps to prepare for a basic interview in an Information Security field.
-This program has two modes of using: single and multiplayer.
-Types of questions are behavioral and technical.
-Technical questions include the following topics: XSS, CSRF, SSL, TSL, SSH, encryption, IDS, IPS, Firewall, Networking, OSI, Penetration Testing techniques, and etc. 
-Running on Linux may require termcolor
-  apt-get install python-termcolor
-    or
-  pip install termcolor
+Razvod is foreign language template email sender.
 
 ## Getting Started
 
