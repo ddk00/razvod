@@ -10,10 +10,9 @@ python razvod.py
 ```
 
 ### Prerequisites
-
+```
 None
 ```
-
 
 ## Running the program
 * Insert all emails in contacts.txt
