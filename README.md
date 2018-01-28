@@ -1,6 +1,6 @@
 # razvod
 
-Razvod is foreign language template email sender.
+Razvod is a foreign language template email sender.
 
 ## Getting Started
 
